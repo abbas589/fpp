@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81177bab-341a-4410-9adb-baa2a12cb06b" name="Default Changelist" comment="" />
+    <list default="true" id="81177bab-341a-4410-9adb-baa2a12cb06b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonTwo/QuestionEight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonTwo/QuestionEight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonTwo/QuestionFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonTwo/QuestionFour.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,36 +38,16 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.QuestionNine">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonTwo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.QuestionTwo">
     <configuration name="QuestionEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonTwo.QuestionEight" />
-      <module name="fpp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonTwo.QuestionFive" />
-      <module name="fpp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonTwo.QuestionFour" />
       <module name="fpp" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +72,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuestionOne$Exponential" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonThree.QuestionOne$Exponential" />
+      <module name="fpp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miu.fpp.lessonThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QuestionSeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonTwo.QuestionSeven" />
       <module name="fpp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.miu.fpp.lessonTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonThree.QuestionTwo" />
+      <module name="fpp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miu.fpp.lessonThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuestionTwo" />
+        <item itemvalue="Application.QuestionOne$Exponential" />
         <item itemvalue="Application.QuestionNine" />
         <item itemvalue="Application.QuestionSeven" />
         <item itemvalue="Application.QuestionEight" />
-        <item itemvalue="Application.QuestionFive" />
-        <item itemvalue="Application.QuestionFour" />
       </list>
     </recent_temporary>
   </component>
@@ -128,11 +140,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669747531971</updated>
-      <workItem from="1669747535031" duration="7009000" />
+      <workItem from="1669747535031" duration="10230000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
