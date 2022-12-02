@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81177bab-341a-4410-9adb-baa2a12cb06b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionThreeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonTwo/QuestionEight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonTwo/QuestionEight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonTwo/QuestionFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonTwo/QuestionFour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FPP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonThree/QuestionTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonThree/QuestionTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -32,10 +34,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -44,73 +53,14 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonTwo" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.miu.fpp.lessonThree" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.QuestionTwo">
-    <configuration name="QuestionEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonTwo.QuestionEight" />
-      <module name="fpp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonTwo.QuestionNine" />
-      <module name="fpp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionOne$Exponential" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonThree.QuestionOne$Exponential" />
-      <module name="fpp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionSeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonTwo.QuestionSeven" />
-      <module name="fpp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonThree.QuestionTwo" />
-      <module name="fpp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.QuestionThreeTest">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -122,13 +72,92 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuestionThreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fpp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miu.fpp.lessonThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miu.fpp.lessonThree" />
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonThree.QuestionThreeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionThreeTest.testBinarySearchWithEmptyArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fpp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miu.fpp.lessonThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miu.fpp.lessonThree" />
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonThree.QuestionThreeTest" />
+      <option name="METHOD_NAME" value="testBinarySearchWithEmptyArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionThreeTest.testForMInCharInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fpp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miu.fpp.lessonThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miu.fpp.lessonThree" />
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonThree.QuestionThreeTest" />
+      <option name="METHOD_NAME" value="testForMInCharInArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionThreeTest.testForMInCharInEmptyArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fpp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miu.fpp.lessonThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miu.fpp.lessonThree" />
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonThree.QuestionThreeTest" />
+      <option name="METHOD_NAME" value="testForMInCharInEmptyArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionThreeTest.testForminCharInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fpp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miu.fpp.lessonThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miu.fpp.lessonThree" />
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonThree.QuestionThreeTest" />
+      <option name="METHOD_NAME" value="testForminCharInArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuestionTwo" />
-        <item itemvalue="Application.QuestionOne$Exponential" />
-        <item itemvalue="Application.QuestionNine" />
-        <item itemvalue="Application.QuestionSeven" />
-        <item itemvalue="Application.QuestionEight" />
+        <item itemvalue="JUnit.QuestionThreeTest" />
+        <item itemvalue="JUnit.QuestionThreeTest.testForMInCharInArray" />
+        <item itemvalue="JUnit.QuestionThreeTest.testForMInCharInEmptyArray" />
+        <item itemvalue="JUnit.QuestionThreeTest.testBinarySearchWithEmptyArray" />
+        <item itemvalue="JUnit.QuestionThreeTest.testForminCharInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +169,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669747531971</updated>
-      <workItem from="1669747535031" duration="10230000" />
+      <workItem from="1669747535031" duration="13427000" />
     </task>
     <servers />
   </component>

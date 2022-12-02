@@ -10,6 +10,10 @@ public class QuestionTwo {
     public static char minCharInArray(char[] values, int lowerIndex, int upperIndex){
         char min;
 
+        if(values.length<1){
+            return '\u0000';
+        }
+
         if(lowerIndex == upperIndex){
             return values[lowerIndex];
         } else {
