@@ -16,6 +16,7 @@
       <change beforePath="$PROJECT_DIR$/FPP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FPP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonThree/QuestionTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonThree/QuestionTwo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q3/MyStringList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q3/MyStringList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,7 @@
       <recent name="com.miu.fpp.lessonnFour.q2.employeeinfo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.MyStringList">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonnFour.q2.Main" />
       <module name="fpp" />
@@ -97,6 +98,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.miu.fpp.lessonnFour.q1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyStringList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonnFour.q3.MyStringList" />
+      <module name="fpp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miu.fpp.lessonnFour.q3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,29 +160,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuestionThreeTest.testForMInCharInEmptyArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="fpp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.miu.fpp.lessonThree" />
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonThree.QuestionThreeTest" />
-      <option name="METHOD_NAME" value="testForMInCharInEmptyArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyStringList" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.QuestionThreeTest" />
         <item itemvalue="JUnit.QuestionThreeTest.testForMInCharInArray" />
-        <item itemvalue="JUnit.QuestionThreeTest.testForMInCharInEmptyArray" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669747531971</updated>
-      <workItem from="1669747535031" duration="21065000" />
+      <workItem from="1669747535031" duration="25703000" />
     </task>
     <servers />
   </component>
