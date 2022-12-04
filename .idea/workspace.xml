@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81177bab-341a-4410-9adb-baa2a12cb06b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionThreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q1/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q1/AccountType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q1/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q2/employeeinfo/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q2/employeeinfo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q4/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q4/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q4/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FPP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FPP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonThree/QuestionTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonThree/QuestionTwo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonnFour/q3/MyStringList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonnFour/q3/MyStringList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q3/MyStringList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q3/MyStringList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +44,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -83,7 +68,7 @@
       <recent name="com.miu.fpp.lessonnFour.q2.employeeinfo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.MyStringList">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonnFour.q2.Main" />
       <module name="fpp" />
@@ -136,13 +121,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -164,8 +151,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.MyStringList" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.QuestionThreeTest" />
@@ -181,6 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669747531971</updated>
       <workItem from="1669747535031" duration="27025000" />
+      <workItem from="1670082824800" duration="1996000" />
     </task>
     <servers />
   </component>
@@ -197,5 +185,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

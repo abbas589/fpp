@@ -1,6 +1,7 @@
 package com.miu.fpp.lessonnFour.q3;
 
 import java.util.Arrays;
+import java.util.StringJoiner;
 
 public class MyStringList {
     private final int INITIAL_LENGTH = 2;
@@ -42,9 +43,11 @@ public class MyStringList {
 
     public void insert(String s, int pos) {
         //implement
-        if (pos > 0 && pos < strArray.length) {
+        if (pos > 0 && pos < size) {
             strArray[pos] = s;
-            size++;
+            if (strArray[pos] != null) {
+                size++;
+            }
         }
 
 
@@ -55,7 +58,10 @@ public class MyStringList {
         boolean removed = false;
         for (int i = 0; i < strArray.length; i++) {
             if (strArray[i].equals(s)) {
-                strArray[i] = null;
+//                strArray[i] = strArray[i + 1];
+                if (size - i >= 0) {
+                    System.arraycopy(strArray, i + 1, strArray, i, size - i);
+                }
                 removed = true;
                 size--;
                 resize();
@@ -77,15 +83,20 @@ public class MyStringList {
     public String toString() {
         //implement
 
-        String[] cleanedUpArray = new String[size];
-        int j = 0;
-        for (int i = 0; i < strArray.length; i++) {
-            if (strArray[i] != null) {
-                cleanedUpArray[j] = strArray[i];
-                j++;
-            }
+//        String[] cleanedUpArray = new String[size];
+//        int j = 0;
+//        for (int i = 0; i < strArray.length; i++) {
+//            if (strArray[i] != null) {
+//                cleanedUpArray[j] = strArray[i];
+//                j++;
+//            }
+//        }
+
+        StringJoiner stringJoiner = new StringJoiner(",","[","]");
+        for (int i = 0; i < size; i++) {
+            stringJoiner.add(strArray[i]);
         }
-        return Arrays.toString(cleanedUpArray);
+        return stringJoiner.toString();
     }
 
     public int size() {
