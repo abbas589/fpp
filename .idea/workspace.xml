@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="81177bab-341a-4410-9adb-baa2a12cb06b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonnFour/q3/MyStringList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonnFour/q3/MyStringList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q3/MyStringList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q3/MyStringList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +165,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669747531971</updated>
       <workItem from="1669747535031" duration="27025000" />
-      <workItem from="1670082824800" duration="1996000" />
+      <workItem from="1670082824800" duration="3055000" />
     </task>
     <servers />
   </component>
