@@ -1,42 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81177bab-341a-4410-9adb-baa2a12cb06b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSeven/q1/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSeven/q1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSeven/q2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSeven/q2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSeven/q2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSeven/q2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSeven/q3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSeven/q3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q1/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q2/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q4/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q4/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q5/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q5/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q6/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q6/AdminModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q6/Condo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q6/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q6/Trailer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/q1/Derived.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/q1/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/q4/Clerk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/q4/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/q4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/q4/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/q5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/q5/Pet.java" afterDir="false" />
+    <list default="true" id="81177bab-341a-4410-9adb-baa2a12cb06b" name="Default Changelist" comment="added impl for lesson 7">
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskA/DeptEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskA/DeptEmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskA/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskA/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskA/Secretary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskA/TaskAMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskB/DeptEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskB/DeptEmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskB/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskB/Secretary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskB/TaskBMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskC/DeptEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskC/DeptEmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskC/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskC/Secretary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskC/TaskCMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskD/DeptEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskD/DeptEmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskD/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskD/Secretary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskD/TaskDMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskE/DeptEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskE/DeptEmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskE/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskE/Secretary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskE/TaskEMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,18 +77,18 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskE" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q5" />
-      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q4" />
-      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q2" />
-      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonSix/p2/q1" />
-      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q2" />
+      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskE" />
+      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskD" />
+      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskC" />
+      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskB" />
+      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonEight" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonTwo" />
@@ -112,20 +103,7 @@
       <recent name="com.miu.fpp.lessonnFour.q2.employeeinfo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="AdminModule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonSix.p2.q6.AdminModule" />
-      <module name="fpp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonSix.p2.q6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TaskCMain">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonSeven.q2.Main" />
       <module name="fpp" />
@@ -145,32 +123,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.miu.fpp.lessonSeven.q3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonSix.q5.Main" />
-      <module name="fpp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonSix.q5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonSix.p2.q2.Main" />
-      <module name="fpp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonSix.p2.q2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,6 +156,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaskAMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonEight.taskA.TaskAMain" />
+      <module name="fpp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miu.fpp.lessonEight.taskA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskBMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonEight.taskB.TaskBMain" />
+      <module name="fpp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miu.fpp.lessonEight.taskB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskCMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonEight.taskC.TaskCMain" />
+      <module name="fpp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miu.fpp.lessonEight.taskC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -217,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaskCMain" />
+        <item itemvalue="Application.TaskBMain" />
+        <item itemvalue="Application.TaskAMain" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.AdminModule" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -235,8 +226,16 @@
       <updated>1669747531971</updated>
       <workItem from="1669747535031" duration="27025000" />
       <workItem from="1670082824800" duration="14076000" />
-      <workItem from="1670386802884" duration="3517000" />
+      <workItem from="1670386802884" duration="8330000" />
     </task>
+    <task id="LOCAL-00001" summary="added impl for lesson 7">
+      <created>1670390737594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670390737594</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,5 +252,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added impl for lesson 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="added impl for lesson 7" />
   </component>
 </project>
