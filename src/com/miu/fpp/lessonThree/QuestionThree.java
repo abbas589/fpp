@@ -33,7 +33,7 @@ public class QuestionThree {
             return -1;
         }
         if (left <= right) {
-            int mid = left + (right - left) / 2;
+            int mid = right - left / 2;
             System.out.println("mid index is :" + mid);
             if (arr[mid] == val) {
                 return mid;
