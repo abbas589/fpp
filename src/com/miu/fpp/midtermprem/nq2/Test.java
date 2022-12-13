@@ -21,6 +21,6 @@ public class Test {
         One one = new One(l);
 
         String ch = "c";
-        new One(ch);
+//        new One(ch);
     }
 }

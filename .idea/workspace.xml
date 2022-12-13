@@ -2,47 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81177bab-341a-4410-9adb-baa2a12cb06b" name="Default Changelist" comment="added impl for lesson 8">
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lesson9/q1/Translator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/PolyCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq1/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq2/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq2/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q15/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q15/Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q3/Five.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q3/Four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q3/Inter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q3/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q3/Six.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q3/Three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q3/Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q4/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q4/Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q6/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q6/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q6/Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q7/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q7/Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q8/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/q9/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonTen/MyStringDLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonTen/MyStringList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonTen/SinglyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonEight/taskC/TaskCMain$1Sorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonEight/taskC/TaskCMain$1Sorter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonEight/taskC/TaskCMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonEight/taskC/TaskCMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonThree/QuestionThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonThree/QuestionThree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonnFour/q1/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonnFour/q1/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThree/QuestionThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q1/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonnFour/q1/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/midtermprem/PolyCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/midtermprem/PolyCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/midtermprem/nq1/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/midtermprem/nq1/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq2/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq2/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,26 +84,13 @@
       <recent name="com.miu.fpp.lessonnFour.q2.employeeinfo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PolyCheck">
+  <component name="RunManager" selected="Application.MyStringList">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.miu.fpp.midtermprem.nq1.Calculator" />
       <module name="fpp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.miu.fpp.midtermprem.nq1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.midtermprem.q15.Main" />
-      <module name="fpp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miu.fpp.midtermprem.q15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,6 +111,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyStringDLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonTen.MyStringDLinkedList" />
+      <module name="fpp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miu.fpp.lessonTen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyStringList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonTen.MyStringList" />
+      <module name="fpp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miu.fpp.lessonTen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PolyCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.miu.fpp.midtermprem.PolyCheck" />
       <module name="fpp" />
@@ -170,25 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.midtermprem.q6.Test" />
+    <configuration name="SinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonTen.SinglyLinkedList" />
       <module name="fpp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.miu.fpp.midtermprem.q6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.midtermprem.Test" />
-      <module name="fpp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miu.fpp.midtermprem.*" />
+          <option name="PATTERN" value="com.miu.fpp.lessonTen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyStringList" />
+        <item itemvalue="Application.SinglyLinkedList" />
+        <item itemvalue="Application.MyStringDLinkedList" />
         <item itemvalue="Application.PolyCheck" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +194,7 @@
       <updated>1669747531971</updated>
       <workItem from="1669747535031" duration="27025000" />
       <workItem from="1670082824800" duration="14076000" />
-      <workItem from="1670386802884" duration="35545000" />
+      <workItem from="1670386802884" duration="44788000" />
     </task>
     <task id="LOCAL-00001" summary="added impl for lesson 7">
       <created>1670390737594</created>
