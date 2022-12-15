@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81177bab-341a-4410-9adb-baa2a12cb06b" name="Default Changelist" comment="added impl for lesson 8">
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonTen/MyStringDLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonTen/MyStringList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonTen/SinglyLinkedList.java" afterDir="false" />
+    <list default="true" id="81177bab-341a-4410-9adb-baa2a12cb06b" name="Default Changelist" comment="added impl for lesson 10">
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEleven/MyBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEleven/hw lesson10.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/midtermprem/PolyCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/midtermprem/PolyCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/midtermprem/nq1/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/midtermprem/nq1/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq2/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq2/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +37,15 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="2IEX5Gn8VsLC9M513UHaNaMcoEP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -84,26 +84,13 @@
       <recent name="com.miu.fpp.lessonnFour.q2.employeeinfo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyStringList">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.midtermprem.nq1.Calculator" />
+  <component name="RunManager" selected="Application.MyBST">
+    <configuration name="MyBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonEleven.MyBST" />
       <module name="fpp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.miu.fpp.midtermprem.nq1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonSix.p2.q5.Main" />
-      <module name="fpp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonSix.p2.q6.*" />
+          <option name="PATTERN" value="com.miu.fpp.lessonEleven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyBST" />
         <item itemvalue="Application.MyStringList" />
         <item itemvalue="Application.SinglyLinkedList" />
         <item itemvalue="Application.MyStringDLinkedList" />
         <item itemvalue="Application.PolyCheck" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +181,10 @@
       <updated>1669747531971</updated>
       <workItem from="1669747535031" duration="27025000" />
       <workItem from="1670082824800" duration="14076000" />
-      <workItem from="1670386802884" duration="44788000" />
+      <workItem from="1670386802884" duration="45420000" />
+      <workItem from="1670963509052" duration="355000" />
+      <workItem from="1671046538052" duration="788000" />
+      <workItem from="1671067751333" duration="12449000" />
     </task>
     <task id="LOCAL-00001" summary="added impl for lesson 7">
       <created>1670390737594</created>
@@ -217,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670460981159</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added impl for lesson 10">
+      <created>1670899076269</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670899076269</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,8 +233,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added impl for lesson 7" />
     <MESSAGE value="added impl for lesson 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="added impl for lesson 8" />
+    <MESSAGE value="added impl for lesson 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="added impl for lesson 10" />
   </component>
 </project>
