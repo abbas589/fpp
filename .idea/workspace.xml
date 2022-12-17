@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81177bab-341a-4410-9adb-baa2a12cb06b" name="Default Changelist" comment="added impl for lesson 10">
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEleven/MyBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonEleven/hw lesson10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThirteen/q1/CustomerAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThirteen/q1/NumberInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThirteen/q1/TestCustomerAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThirteen/q2/NamePopularity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThirteen/q2/boys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThirteen/q2/girls.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonTwelve/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonTwelve/Key.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonTwelve/Problem1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonTwelve/Standing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonTwelve/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonTwelve/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq2/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miu/fpp/midtermprem/nq2/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonEleven/MyBST$BinaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonEleven/MyBST$BinaryNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonEleven/MyBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonEleven/MyBST.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,18 +69,18 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskE" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/miu/fpp" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/miu/fpp" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonThirteen/q2" />
+      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonTwelve" />
       <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskE" />
-      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskD" />
-      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskC" />
-      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonEight/taskB" />
-      <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonEight" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/miu/fpp/lessonTwo" />
@@ -84,7 +95,7 @@
       <recent name="com.miu.fpp.lessonnFour.q2.employeeinfo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyBST">
+  <component name="RunManager" selected="Application.NamePopularity">
     <configuration name="MyBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonEleven.MyBST" />
       <module name="fpp" />
@@ -98,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStringDLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonTen.MyStringDLinkedList" />
+    <configuration name="NamePopularity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonThirteen.q2.NamePopularity" />
       <module name="fpp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonTen.*" />
+          <option name="PATTERN" value="com.miu.fpp.lessonThirteen.q2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStringList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonTen.MyStringList" />
+    <configuration name="NumberInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonThirteen.q1.NumberInput" />
       <module name="fpp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonTen.*" />
+          <option name="PATTERN" value="com.miu.fpp.lessonThirteen.q1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.midtermprem.PolyCheck" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonTwelve.Test" />
       <module name="fpp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.miu.fpp.midtermprem.*" />
+          <option name="PATTERN" value="com.miu.fpp.lessonTwelve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonTen.SinglyLinkedList" />
+    <configuration name="TestCustomerAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miu.fpp.lessonThirteen.q1.TestCustomerAccount" />
       <module name="fpp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.miu.fpp.lessonTen.*" />
+          <option name="PATTERN" value="com.miu.fpp.lessonThirteen.q1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,24 +161,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NamePopularity" />
+        <item itemvalue="Application.TestCustomerAccount" />
+        <item itemvalue="Application.NumberInput" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.MyBST" />
-        <item itemvalue="Application.MyStringList" />
-        <item itemvalue="Application.SinglyLinkedList" />
-        <item itemvalue="Application.MyStringDLinkedList" />
-        <item itemvalue="Application.PolyCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +197,8 @@
       <workItem from="1670386802884" duration="45420000" />
       <workItem from="1670963509052" duration="355000" />
       <workItem from="1671046538052" duration="788000" />
-      <workItem from="1671067751333" duration="12449000" />
+      <workItem from="1671067751333" duration="15688000" />
+      <workItem from="1671215331921" duration="11474000" />
     </task>
     <task id="LOCAL-00001" summary="added impl for lesson 7">
       <created>1670390737594</created>
