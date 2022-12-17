@@ -2,7 +2,6 @@ package com.miu.fpp.lessonThirteen.q2;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class NamePopularity {
@@ -14,7 +13,7 @@ public class NamePopularity {
         System.out.println("This program is checking the directory of Social Security Administration for the year 2003");
 
 
-        System.out.println("Enter name: ");
+        System.out.print("Enter name: ");
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
 
@@ -25,7 +24,7 @@ public class NamePopularity {
         for (int i = 0; i < girlNames.size(); i++) {
             if (girlNames.get(i).getName().equalsIgnoreCase(name)) {
                 hasGirlsName = true;
-                System.out.println(girlNames.get(i).getName() + " is ranked " + i + 1 + " in popularity among Girls with " + girlNames.get(i).getCount() + " namings.");
+                System.out.println(girlNames.get(i).getName() + " is ranked " + ++i  + " in popularity among Girls with " + girlNames.get(i).getCount() + " namings.");
             }
         }
         if(!hasGirlsName){
@@ -35,7 +34,7 @@ public class NamePopularity {
         for (int i = 0; i < boyNames.size(); i++) {
             if (boyNames.get(i).getName().equalsIgnoreCase(name)) {
                 hasBoysName = true;
-                System.out.println(boyNames.get(i).getName() + " is ranked " + i + 1 + " in popularity among Boys with " + boyNames.get(i).getCount() + " namings.");
+                System.out.println(boyNames.get(i).getName() + " is ranked " + ++i + " in popularity among Boys with " + boyNames.get(i).getCount() + " namings.");
             }
         }
         if(!hasBoysName){
@@ -59,7 +58,6 @@ public class NamePopularity {
             String val;
             ArrayList<String> boysStr = new ArrayList<>();
             while ((val = boysReader.readLine()) != null) {
-                System.out.println(val);
                 if (!val.isEmpty()) {
                     boysStr.add(val);
                 }
@@ -67,7 +65,6 @@ public class NamePopularity {
             val = "";
             ArrayList<String> girlsStrArr = new ArrayList<>();
             while ((val = girlsReader.readLine()) != null) {
-                System.out.println(val);
                 if (!val.isEmpty()) {
                     girlsStrArr.add(val);
                 }
