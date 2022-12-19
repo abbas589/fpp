@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81177bab-341a-4410-9adb-baa2a12cb06b" name="Default Changelist" comment="added impl for lesson 10">
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThirteen/q3/ArrayQueueImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThirteen/q3/ArrayQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThirteen/q3/ArrayStackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miu/fpp/lessonThirteen/q3/OgArrayStackDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonThirteen/q2/PalindromeReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPP/com/miu/fpp/lessonThirteen/q2/PalindromeReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/miu/fpp/lessonThirteen/q3/OgArrayStackDemo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +185,7 @@
       <workItem from="1670963509052" duration="355000" />
       <workItem from="1671046538052" duration="788000" />
       <workItem from="1671067751333" duration="15688000" />
-      <workItem from="1671215331921" duration="37361000" />
+      <workItem from="1671215331921" duration="37737000" />
     </task>
     <task id="LOCAL-00001" summary="added impl for lesson 7">
       <created>1670390737594</created>
