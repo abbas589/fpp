@@ -25,7 +25,22 @@ public class Advice {
             FileOutputStream fileOutputStream = new FileOutputStream("/Users/bazz/Documents/projectd/MAHARISHI/FPP/fpp/src/com/miu/fpp/lessonThirteen/q2/advice.txt");
 
 //            BufferedOutputStream bufferedOutputStream = new BufferedOutputStream(fileOutputStream);
-            fileOutputStream.write(scInput.nextLine().getBytes());
+
+
+            StringBuilder stringBuilder = new StringBuilder();
+            String val = scInput.next();
+            String prevVal = "-1";
+            while (val != null) {
+                if (val.isEmpty() && prevVal.isEmpty()) {
+                    val = null;
+                } else {
+                    stringBuilder.append(val);
+                    prevVal = val;
+                    val = scInput.nextLine();
+                }
+            }
+
+            fileOutputStream.write(stringBuilder.toString().getBytes());
 
             System.out.println("******************** ADVICE HAS BEEN UPDATED! THANK YOU ********************");
 
